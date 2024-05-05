@@ -1,4 +1,4 @@
-### Hi there 👋
+![avatar](https://pixel-profile.vercel.app/api/github-stats?username=245938767&screen_effect=true&theme=rainbow)
 
 <!--
 **245938767/245938767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
