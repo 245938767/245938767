@@ -1,5 +1,8 @@
-![avatar](https://pixel-profile.vercel.app/api/github-stats?username=245938767&screen_effect=true&theme=rainbow)
-
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-omega.vercel.app/api/github-stats?username=245938767&screen_effect=true&color=white&background=green&dithering=true&a=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-omega.vercel.app/api/github-stats?username=245938767&screen_effect=true&color=black&background=green">
+  <img alt="github stats" src="https://pixel-profile-omega.vercel.app/api/github-stats?username=245938767&screen_effect=true&color=white&background=green&dithering=true">
+</picture>
 <!--
 **245938767/245938767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
